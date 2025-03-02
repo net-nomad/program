@@ -1,8 +1,0 @@
-nmap:
-description: A network scanning tool for discovering hosts and services on a computer network.
-categories:
-  Network Operations:
-    1: "Scan a target IP address -> nmap {ip_address}"
-    2: "Scan a target IP address with a specific port range -> nmap {ip_address} -p {port_range}"
-    3: "Aggressive scan on a target IP -> nmap {ip_address} -A"
-    4: "Scan a target IP and specify output file -> nmap {ip_address} -oN {output_file}"
