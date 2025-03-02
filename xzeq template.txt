@@ -1,0 +1,14 @@
+notepad:
+description: Text editor for creating or editing simple text files.
+categories:
+  File Operations:
+    1: "Open Notepad -> notepad.exe"
+    2: "Open Notepad with file -> notepad.exe {path_to_file}"
+  File Creation:
+    3: "Create a new file in Notepad at -> notepad.exe {path_to_file}"
+
+server:
+description: A server-related program for managing connections.
+categories:
+  Network Operations:
+    1: "Connect to server -> server.exe {ip_address}"
